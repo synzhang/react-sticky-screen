@@ -20,5 +20,11 @@
   "bugs": {
     "url": "https://github.com/SynZhang/react-sticky-screen/issues"
   },
-  "homepage": "https://github.com/SynZhang/react-sticky-screen#readme"
+  "homepage": "https://github.com/SynZhang/react-sticky-screen#readme",
+  "dependencies": {
+    "react": "^16.8.0"
+  },
+  "peerDependencies": {
+    "react": "^16.8.0 || ^17.0.0 || ^18.0.0"
+  }
 }
